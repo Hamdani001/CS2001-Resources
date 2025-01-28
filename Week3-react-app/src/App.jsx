@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import Hello from './Hello'
-import HelloName from '../Hello-withProps'
+import HelloName from './Hello-withProps'
 
 function App() {
   const [count, setCount] = useState(0)
